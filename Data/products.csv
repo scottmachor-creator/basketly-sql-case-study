@@ -1,0 +1,121 @@
+product_id,product_name,category,unit_price,unit_cost,is_active
+1001,Bananas (bunch),Fresh Produce,4.59,3.08,True
+1002,Tomatoes 1kg,Fresh Produce,1.33,0.93,True
+1003,Red Onions 1kg,Fresh Produce,2.66,1.77,False
+1004,Avocados x2,Fresh Produce,2.38,1.5,True
+1005,Spinach 250g,Fresh Produce,5.1,3.57,True
+1006,Carrots 1kg,Fresh Produce,4.79,3.35,True
+1007,Apples x6,Fresh Produce,5.93,3.72,True
+1008,Oranges x6,Fresh Produce,1.66,1.09,True
+1009,Bell Peppers x3,Fresh Produce,3.44,2.44,True
+1010,Potatoes 2kg,Fresh Produce,1.36,0.91,True
+1011,Lettuce,Fresh Produce,2.36,1.67,True
+1012,Cucumbers x2,Fresh Produce,3.88,2.75,True
+1013,Strawberries 400g,Fresh Produce,1.34,0.91,True
+1014,Grapes 500g,Fresh Produce,2.25,1.72,True
+1015,Plantain x3,Fresh Produce,4.64,3.52,False
+1016,Ginger 200g,Fresh Produce,4.09,2.91,True
+1017,Garlic x3,Fresh Produce,2.37,1.73,True
+1018,Lemons x4,Fresh Produce,4.32,2.93,True
+1019,Mangoes x2,Fresh Produce,5.49,3.99,True
+1020,Pineapple,Fresh Produce,1.23,0.92,True
+1021,Whole Milk 1L,Dairy & Eggs,5.93,4.69,True
+1022,Semi-Skimmed Milk 2L,Dairy & Eggs,5.34,4.59,True
+1023,Eggs x12,Dairy & Eggs,3.37,2.86,True
+1024,Eggs x6,Dairy & Eggs,2.36,2.14,True
+1025,Greek Yogurt 500g,Dairy & Eggs,6.76,5.89,True
+1026,Cheddar 400g,Dairy & Eggs,3.35,2.83,True
+1027,Butter 250g,Dairy & Eggs,2.01,1.8,True
+1028,Mozzarella 200g,Dairy & Eggs,2.03,1.69,True
+1029,Cream Cheese 200g,Dairy & Eggs,6.16,5.38,True
+1030,Oat Milk 1L,Dairy & Eggs,4.82,4.15,True
+1031,Fruit Yogurt x4,Dairy & Eggs ,5.94,5.19,True
+1032,Double Cream 300ml,Dairy & Eggs,5.51,4.28,True
+1033,White Bread,Bakery,4.05,2.63,True
+1034,Wholemeal Bread,Bakery,5.89,4.08,True
+1035,Croissants x4,Bakery,3.39,2.09,True
+1036,Bagels x5,Bakery,4.12,2.88,True
+1037,Sourdough Loaf,Bakery,5.28,3.39,True
+1038,Muffins x4,Bakery,4.4,3.2,True
+1039,Tortilla Wraps x8,Bakery,5.42,3.81,True
+1040,Dinner Rolls x6,bakery,4.22,2.71,True
+1041,Cinnamon Buns x2,Bakery,4.76,2.95,True
+1042,Pitta Bread x6,Bakery,1.99,1.28,False
+1043,Chicken Breast 1kg,Meat & Seafood,7.96,6.64,True
+1044,Chicken Thighs 1kg,Meat & Seafood,8.76,7.38,True
+1045,Beef Mince 500g,Meat & Seafood,6.04,5.37,True
+1046,Salmon Fillets x2,Meat & Seafood,8.03,6.9,True
+1047,Pork Sausages x8,Meat & Seafood,6.31,5.35,False
+1048,Turkey Slices 200g,Meat & Seafood,8.61,6.78,True
+1049,Prawns 300g,Meat & Seafood,13.26,10.82,True
+1050,Lamb Chops 500g,Meat & Seafood,9.74,8.77,True
+1051,Whole Chicken,Meat & Seafood,9.81,8.02,True
+1052,Tilapia Fillets 500g,Meat & Seafood,7.72,6.53,True
+1053,Basmati Rice 2kg,Pantry,3.5,2.93,True
+1054,Spaghetti 500g,Pantry,8.52,6.69,True
+1055,Olive Oil 1L,Pantry,6.36,4.89,True
+1056,Vegetable Oil 2L,Pantry,6.07,4.69,True
+1057,Canned Tomatoes x4,Pantry,2.78,2.35,True
+1058,Baked Beans x4,Pantry,6.97,5.73,True
+1059,Peanut Butter 340g,Pantry,2.73,2.18,True
+1060,Honey 340g,Pantry,4.35,3.35,True
+1061,Cornflakes 500g,Pantry,8.92,7.4,True
+1062,Oats 1kg,Pantry,6.3,5.15,True
+1063,Sugar 1kg,Pantry,5.68,4.85,False
+1064,Flour 1.5kg,Pantry,6.63,5.69,True
+1065,Tomato Paste 400g,Pantry,7.82,6.08,True
+1066,Stock Cubes x24,Pantry,7.32,5.53,True
+1067,Instant Noodles x5,Pantry,3.22,2.62,True
+1068,Jasmine Rice 5kg,Pantry,9.85,7.58,True
+1069,Chickpeas x3,Pantry,3.51,2.79,True
+1070,Coconut Milk x2,Pantry,3.08,2.57,True
+1071,Bottled Water 6x1.5L,Beverages,11.37,9.84,True
+1072,Cola 6x330ml,Beverages,10.64,8.71,True
+1073,Orange Juice 1L,Beverages,4.46,3.93,True
+1074,Apple Juice 1L,Beverages,8.21,6.71,True
+1075,Coffee Beans 500g,Beverages,5.35,5.08,True
+1076,Instant Coffee 200g,Beverages,11.06,9.37,True
+1077,Tea Bags x80,Beverages,6.05,5.3,True
+1078,Energy Drink x4,Beverages,3.91,3.49,True
+1079,Sparkling Water x6,Beverages,3.71,3.25,True
+1080,Malt Drink x6,Beverages,7.18,6.82,True
+1081,Premium Coffee Pods x30,Beverages,14.1,12.53,True
+1082,Cranberry Juice 1L,Beverages,10.88,9.42,True
+1083,Potato Chips 150g,Snacks,3.3,2.25,True
+1084,Chocolate Bar x4,Snacks,2.49,1.89,True
+1085,Mixed Nuts 200g,Snacks,5.99,4.63,True
+1086,Popcorn 100g,Snacks,3.79,2.88,True
+1087,Biscuits 300g,Snacks,1.91,1.34,True
+1088,Granola Bars x6,Snacks,1.71,1.24,True
+1089,Plantain Chips 150g,Snacks,1.99,1.51,True
+1090,Gummy Sweets 200g,Snacks,4.32,3.11,True
+1091,Crackers 250g,Snacks,5.06,3.72,True
+1092,Dark Chocolate 100g,Snacks,3.4,2.38,True
+1093,Frozen Peas 1kg,Frozen,3.51,2.91,True
+1094,Ice Cream 1L,Frozen,6.05,4.92,True
+1095,Frozen Pizza,Frozen,10.97,8.95,True
+1096,Fish Fingers x10,Frozen,7.23,6.21,True
+1097,Frozen Mixed Veg 1kg,Frozen,10.77,8.49,True
+1098,Frozen Berries 500g,Frozen,9.89,7.81,True
+1099,Chicken Nuggets 750g,Frozen,3.09,2.47,True
+1100,Frozen Chips 1.5kg,Frozen,8.77,7.1,True
+1101,Toilet Paper x9,Household,11.18,9.02,True
+1102,Kitchen Roll x4,Household,9.44,7.24,True
+1103,Dish Soap 500ml,Household,6.2,4.73,True
+1104,Laundry Detergent 2L,household,15.5,12.12,True
+1105,Bin Bags x40,Household,8.22,6.22,True
+1106,Bleach 1L,Household,8.44,6.19,True
+1107,Sponges x6,household,14.45,9.75,True
+1108,Fabric Softener 1.5L,Household,13.51,10.04,True
+1109,Aluminium Foil,Household,6.16,4.56,True
+1110,Surface Cleaner 750ml,Household,9.01,6.78,True
+1111,Shampoo 400ml,Personal Care,6.39,5.03,True
+1112,Toothpaste x2,Personal Care,20.34,14.46,True
+1113,Body Wash 500ml,personal care,19.54,13.83,True
+1114,Deodorant,Personal Care,8.67,5.3,True
+1115,Razor Blades x8,Personal Care,15.14,10.87,True
+1116,Hand Soap x3,Personal Care,14.57,10.17,True
+1117,Face Moisturiser 50ml,Personal Care,5.9,4.2,True
+1118,Electric Toothbrush Heads x4,Personal Care,25.56,19.34,True
+1119,Sunscreen SPF50,Personal Care,17.79,11.82,False
+1120,Premium Perfume 50ml,Personal Care,22.0,14.96,True
